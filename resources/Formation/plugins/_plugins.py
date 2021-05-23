@@ -54,7 +54,7 @@ R = (
     "⌔∮ 𝙎𝙊𝙐𝙍𝘾𝙀 𝙄𝘾𝙎𝙎 - 𝙍𝙀𝙋𝙊 𓆪 \n"
     "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
     "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 ⪼ [𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀](t.me/rruuurr) ⩫ \n"
-    "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 ⪼ [𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀](https://github.com/ANL0KE/ICSS-USERBOT) ⩫"
+    "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 ⪼ [𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀](https://github.com/hsein120/1) ⩫"
 )
 K = "https://github.com/ANL0KE/ICSS-USERBOT"
 
